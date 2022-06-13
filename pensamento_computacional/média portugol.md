@@ -8,6 +8,7 @@
 
 --------------------------------------------------------------------------------------------------
 funcao inicio() {
+
 		 real port, mate, hist, port2, mate2, hist2
 		escreva("Olá, escreva a nota de portugues do estudante 1: ")
 		leia(port)
