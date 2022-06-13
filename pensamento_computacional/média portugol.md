@@ -38,4 +38,4 @@ funcao inicio() {
 # Considerações
 
 **Com esse pseudo-codigo foi possivel realizar a média de notas de 2 alunos simultaneamente, colocando 
-suas respectivas notas
+suas respectivas notas**
